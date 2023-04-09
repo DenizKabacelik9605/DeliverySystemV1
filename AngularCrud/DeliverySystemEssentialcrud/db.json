@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "customerFullName": "s",
+      "customerAddress": "d",
+      "vehicleId": "65",
+      "deliverySelectedOption": "Rejected",
+      "deliverySelectedDate": "2023-04-06"
+    },
+    {
+      "id": 3,
+      "customerFullName": "deniz12",
+      "customerAddress": "Öztürk",
+      "vehicleId": "5",
+      "deliverySelectedOption": "Rejected",
+      "deliverySelectedDate": "2023-04-14"
+    },
+    {
+      "id": 4,
+      "customerFullName": "fg",
+      "customerAddress": "fg",
+      "vehicleId": "7",
+      "deliverySelectedOption": "Rejected",
+      "deliverySelectedDate": "2023-04-29"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
