@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DeliveryEntityframeworkCrud.props" />
+</Project>
