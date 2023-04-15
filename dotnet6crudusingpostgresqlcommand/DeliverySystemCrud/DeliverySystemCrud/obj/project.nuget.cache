@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "BcG6f5p61mhH3078TAr42lFlPPsY2YuKtF3rSxegY2QG3wJjZZJoeWYhMHaBUmzDIDsFOcqORJK/Pfz3zvh1+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Deniz\\Desktop\\DenizWorks\\DeliverySystem\\dotnet6crudusingpostgresqlcommand\\DeliverySystemCrud\\DeliverySystemCrud\\DeliverySystemCrud.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Deniz\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Deniz\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Deniz\\.nuget\\packages\\npgsql\\6.0.9\\npgsql.6.0.9.nupkg.sha512",
+    "C:\\Users\\Deniz\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Deniz\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Deniz\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Deniz\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\Deniz\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
