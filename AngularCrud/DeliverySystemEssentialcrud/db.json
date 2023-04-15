@@ -25,6 +25,15 @@
       "deliverySelectedDate": "2023-04-29"
     }
   ],
+  "signupUsers": [
+    {
+      "fullname": "Deniz Kabaçelik",
+      "email": "dkabacelik@gmail.com",
+      "password": "Umut2005",
+      "mobile": 5530138743,
+      "id": 1
+    }
+  ],
   "comments": [],
   "profile": {
     "name": "typicode"
