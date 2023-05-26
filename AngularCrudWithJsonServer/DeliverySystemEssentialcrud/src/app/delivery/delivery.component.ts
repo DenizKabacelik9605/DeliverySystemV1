@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import {FormBuilder, FormGroup} from '@angular/forms';
 import { DeliveryModel } from './delivery.model';
 import {ApiService} from '../api.service'
+import {Api2Service} from '../api2.service'
 
 @Component({
   selector: 'app-delivery',
@@ -22,7 +23,8 @@ export class DeliveryComponent {
     showAdd!:boolean;
     showUpdate!:boolean;
     constructor(private _formbuilder: FormBuilder,
-      private api:ApiService
+      private api:ApiService,
+      private api2:Api2Service
       ){}
 
     ngOnInit():void{
